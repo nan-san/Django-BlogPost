@@ -1,0 +1,22 @@
+h1 {
+  color : white;
+  font-family: lobster;
+}
+
+h2 {
+  color : orange; 
+  padding-top: 20px;
+  font-family: Kosugi Maru;
+}
+
+body {
+    padding: 20px;
+}
+
+em{
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+.jumbotron {
+    background-color: orange ;
+}
